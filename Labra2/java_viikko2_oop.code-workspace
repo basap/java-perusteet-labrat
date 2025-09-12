@@ -1,0 +1,38 @@
+{
+  "folders": [
+    {
+      "path": "Task01_Person"
+    },
+    {
+      "path": "Task02_Overloading"
+    },
+    {
+      "path": "Task03_BankAccount"
+    },
+    {
+      "path": "Task04_Shapes"
+    },
+    {
+      "path": "Task05_Employees"
+    },
+    {
+      "path": "Task06_PackagesVisibility"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.classpath": true,
+      "**/.project": true,
+      "**/.settings": true,
+      "**/bin": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "redhat.java",
+      "ms-vscode.vscode-java-pack",
+      "vscjava.vscode-java-dependency",
+      "vscjava.vscode-java-test"
+    ]
+  }
+}

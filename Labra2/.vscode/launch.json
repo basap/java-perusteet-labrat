@@ -1,0 +1,109 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task06.sub.Main",
+      "projectName": "Labra2_7136c97d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task05.Main",
+      "projectName": "Labra2_7136c97d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task04.Main",
+      "projectName": "Labra2_7136c97d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task03.Main",
+      "projectName": "Labra2_7136c97d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task02.Main",
+      "projectName": "Labra2_7136c97d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task01.Main",
+      "projectName": "Labra2_7136c97d"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task01.Main",
+      "projectName": "java_viikko2_oop_student_skeleton_fixed_dd3634b5"
+    },
+    {
+      "type": "java",
+      "name": "Task01 - Run Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task01.Main",
+      "projectName": "Task01_Person"
+    },
+    {
+      "type": "java",
+      "name": "Task02 - Run Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task02.Main",
+      "projectName": "Task02_Overloading"
+    },
+    {
+      "type": "java",
+      "name": "Task03 - Run Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task03.Main",
+      "projectName": "Task03_BankAccount"
+    },
+    {
+      "type": "java",
+      "name": "Task04 - Run Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task04.Main",
+      "projectName": "Task04_Shapes"
+    },
+    {
+      "type": "java",
+      "name": "Task05 - Run Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task05.Main",
+      "projectName": "Task05_Employees"
+    },
+    {
+      "type": "java",
+      "name": "Task06 - Run Main",
+      "request": "launch",
+      "mainClass": "fi.viikko2.task06.sub.Main",
+      "projectName": "Task06_PackagesVisibility"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Run all tasks (1\u20136)",
+      "configurations": [
+        "Task01 - Run Main",
+        "Task02 - Run Main",
+        "Task03 - Run Main",
+        "Task04 - Run Main",
+        "Task05 - Run Main",
+        "Task06 - Run Main"
+      ]
+    }
+  ]
+}

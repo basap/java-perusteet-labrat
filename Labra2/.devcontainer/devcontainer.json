@@ -1,0 +1,22 @@
+{
+  "name": "Java 17 \u2013 OOP Student Skeleton (Fixed)",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.vscode-java-pack",
+        "redhat.java",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-test"
+      ],
+      "settings": {
+        "java.configuration.updateBuildConfiguration": "automatic",
+        "java.compile.nullAnalysis.mode": "automatic",
+        "java.project.explorer.showNonJavaResources": true
+      }
+    }
+  }
+}
