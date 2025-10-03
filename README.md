@@ -9,3 +9,4 @@
     - [Task05_Employees](https://github.com/basap/java-perusteet-labrat/tree/main/Labra2/Task05_Employees/src/fi/viikko2/task05)
     - [Task06_PackagesVisibility](https://github.com/basap/java-perusteet-labrat/tree/main/Labra2/Task06_PackagesVisibility/src/fi/viikko2/task06)
  - [Labra 3](https://github.com/basap/java-perusteet-labrat/blob/main/Labra3/src/Labra3.java) (26.9.2025)
+ - [Labra 4](https://github.com/basap/java-perusteet-labrat/tree/main/Labra4/src/main/java/viikko4/lab) (3.10.2025)
